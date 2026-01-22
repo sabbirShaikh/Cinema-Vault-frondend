@@ -4,6 +4,8 @@
 CinemaVault is a modern, production-level **movie discovery and library application** built using **React** and **Tailwind CSS**. It features dynamic genre filtering, real-time search, and a premium dark-themed UI designed for an engaging user experience.
 
 ---
+## ✨ Live link : https://cinema-vaults.netlify.app/
+---
 
 ## ✨ Features
 
